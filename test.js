@@ -2,7 +2,7 @@
 
 function greet() {
     var name = "John Doe";
-    console.log("Hello, " + name + "!");
+    console.log("Hello, " + name + "Wiener");
 }
 
 function add(a, b) {
