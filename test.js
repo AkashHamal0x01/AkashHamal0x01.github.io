@@ -7,7 +7,6 @@ var mailgunApiKey = "key-3ax6xnjp29jd6fds4gc373sgvjxteol0";
 var adminEmail = "admin@example.com";
 var supportEmail = "support@example.org";
 
-var internalIP = "192.168.1.1";
 var externalIP = "203.0.113.5";
 
 eval("alert('This is unsafe!')");
