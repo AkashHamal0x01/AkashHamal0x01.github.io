@@ -3,6 +3,7 @@ var awsAccessKey = "AKIAIOSFODNN7EXAMPLE";
 var awsSecretKey = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 var stripeLiveKey = "sk_live_4eC39HqLyjWDarjtT1zdp7dc";
 var mailgunApiKey = "key-3ax6xnjp29jd6fds4gc373sgvjxteol0";
+var stripeLiveKey = "sk_live_4eC39HqLyjWDarjtT1zdp7dc";
 
 var adminEmail = "admin@example.com";
 var supportEmail = "support@example.org";
