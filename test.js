@@ -9,6 +9,7 @@ var adminEmail = "admin@example.com";
 var supportEmail = "support@example.org";
 
 var externalIP = "203.0.113.5";
+var path="/api/path/com"
 
 eval("alert('This is unsafe!')");
 document.write("Hello, World!");
